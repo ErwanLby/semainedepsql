@@ -1,0 +1,32 @@
+{
+    "name": "deuxiemepartie",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "mocha",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "sqlite3": "^5.0.2"
+    },
+    "devDependencies": {
+        "mocha": "^9.1.3",
+        "nocha": "^1.1.1"
+    },
+    "directories": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ErwanLby/semainedepsql.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ErwanLby/semainedepsql/issues"
+    },
+    "homepage": "https://github.com/ErwanLby/semainedepsql#readme",
+    "description": ""
+}
